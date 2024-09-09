@@ -4,11 +4,11 @@ Freelance work? [email](mailto:fanosoro@gmail.com)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 34 mins   █████████████████████░░░░   84.10 %
-Bash         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Go                16 hrs 7 mins   ███████████▓░░░░░░░░░░░░░   46.95 %
+Rust              16 hrs 3 mins   ███████████▓░░░░░░░░░░░░░   46.75 %
+TOML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+YAML              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Markdown          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
