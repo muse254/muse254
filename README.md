@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:fanosoro@gmail.com) :)
+Freelance work? [email](mailto:fanosoro@gmail.com)
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
