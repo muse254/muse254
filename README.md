@@ -1,6 +1,6 @@
 for freelance work? do reach, [email](mailto:fanosoro@gmail.com) :)
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -13,7 +13,7 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
