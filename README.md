@@ -16,7 +16,7 @@ templ             2 hrs 34 mins   ▓░░░░░░░░░░░░░░�
 🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  357 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
