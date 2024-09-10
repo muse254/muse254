@@ -1,6 +1,6 @@
 Freelance work? [email](mailto:fanosoro@gmail.com)
 
-📊 **This week I spent my time on:**
+📊 **I have spent the last 30 days writing:**
 <!--START_SECTION:waka-->
 
 ```txt
