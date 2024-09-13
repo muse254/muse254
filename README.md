@@ -15,7 +15,7 @@ SQL               1 hr 57 mins    ▒░░░░░░░░░░░░░░�
 
 🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
-🏆  524 Karma Points           
+🏆  548 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 4 tasks so far           
 ⏳  Longest streak is 0 days
