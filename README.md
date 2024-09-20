@@ -15,7 +15,7 @@ Vue.js            2 hrs 18 mins   ▒░░░░░░░░░░░░░░�
 
 🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
-🏆  672 Karma Points           
+🏆  696 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 9 tasks so far           
 ⏳  Longest streak is 0 days
