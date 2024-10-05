@@ -4,11 +4,11 @@ Freelance work? [email](mailto:fanosoro@gmail.com)
 <!--START_SECTION:waka-->
 
 ```txt
-Go                48 hrs          █████████░░░░░░░░░░░░░░░░   36.45 %
-Rust              46 hrs 57 mins  █████████░░░░░░░░░░░░░░░░   35.66 %
-SQL               12 hrs 31 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-JavaScript        7 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-YAML              3 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Rust              47 hrs          █████████░░░░░░░░░░░░░░░░   36.19 %
+Go                45 hrs 51 mins  ████████▓░░░░░░░░░░░░░░░░   35.30 %
+SQL               12 hrs 36 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+JavaScript        7 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+YAML              3 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
