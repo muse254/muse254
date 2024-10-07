@@ -16,7 +16,7 @@ YAML              3 hrs 1 min     ▓░░░░░░░░░░░░░░�
 🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  880 Karma Points           
-🌸  Completed 4 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 15 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
